@@ -6,7 +6,7 @@ const person = {
 // instead of interacting with the Person object directly
 // we will interact with the proxy object
 
-// The second argument is this object that represents the handler
+// The second argument in this object  represents the handler
 const personProxy = new Proxy(person, {
   // it will get invoked when trying to acces the person object property
   get:(obj,prop){
