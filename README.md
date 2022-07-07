@@ -1,6 +1,6 @@
 
 # Design Patterns in Javascript
-This repository contains my personal notes on design patterns. It will be updated as I keeps learning Technologies in the Javascript ecosystem 
+This repository contains my notes on design patterns. It will be updated as I keep learning Technologies in the Javascript ecosystem 
 
 
 
