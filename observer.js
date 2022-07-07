@@ -1,5 +1,6 @@
 /* With the observer pattern we  can subscribe certain objects , the observers , to
- another object , calledd the observable  Whenever an events occurs the observable notifies all its observes!*/
+ another object , calledd the observable  Whenever an events 
+ occurs the observable notifies all its observes!*/
 
 class Observable {
   constructor() {
