@@ -16,5 +16,6 @@ This repository contains my notes on design patterns. It will be updated as I ke
 
  - [Learning Patterns by  Lydia Hallie and Addy Osmani](https://www.patterns.dev/book/)
 - [Cheatsheets from @javarevisisted on twitter](https://twitter.com/javarevisited/status/1534526205310799873?s=20&t=zqRzg8d2MEACOLiLKgrLiQ)
+- [Reafctoriing Guru](https://refactoring.guru/)
 
 
