@@ -1,8 +1,8 @@
 /* The mediator pattern allows components to communicate with
 each other through a central point*/
 
-/*In this example users within the chatrrom wont talk to each other 
-directly instead , the chatrrom will serve as mediator*/
+/*In this example users within the chatroom wont talk to each other 
+directly instead , the chatroom will serve as mediator*/
 
 class chatRoom {
   logMessage(user, message) {
